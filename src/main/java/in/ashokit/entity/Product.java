@@ -12,6 +12,7 @@ public class Product {
 	private Integer pid;
 	private String pname;
 	private Double price;
+	private String brand;
 	
 	public Integer getPid() {
 		return pid;
