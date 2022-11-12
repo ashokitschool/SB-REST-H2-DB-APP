@@ -16,6 +16,8 @@ public class Product {
 	private boolean stockPresent;
 	private String mfgDate;
 	private String name;
+	private int i;
+
 
 	
 	public Integer getPid() {
