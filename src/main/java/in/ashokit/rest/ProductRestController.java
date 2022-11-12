@@ -22,6 +22,7 @@ public class ProductRestController {
 	@PostMapping(value = "/product", consumes  = "application/json")
 	public ResponseEntity<String> addProduct(@RequestBody Product product){
 		int i = 10;
+		int j = 20;
 		repo.save(product);
 		return new ResponseEntity<>("Product Saved", HttpStatus.CREATED);
 	}
