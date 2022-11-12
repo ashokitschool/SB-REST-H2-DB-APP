@@ -13,6 +13,7 @@ public class Product {
 	private String pname;
 	private Double price;
 	private String brand;
+	private boolean stockPresent;
 	
 	public Integer getPid() {
 		return pid;
