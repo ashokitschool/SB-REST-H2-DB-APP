@@ -14,6 +14,8 @@ public class Product {
 	private Double price;
 	private String brand;
 	private boolean stockPresent;
+	private String mfgDate;
+
 	
 	public Integer getPid() {
 		return pid;
