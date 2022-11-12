@@ -13,6 +13,7 @@ public class Product {
 	private String pname;
 	private Double price;
 	private String brand;
+	private String mfgDate;
 	
 	public Integer getPid() {
 		return pid;
