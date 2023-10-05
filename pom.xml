@@ -20,7 +20,6 @@
 	<sonar.host.url>http://13.126.80.130:9000/</sonar.host.url>
 	<sonar.login>admin</sonar.login>
 	<sonar.password>admin</sonar.password>
-        </properties>
 	<properties>
 	<sonar.host.url>http://13.126.80.130:9000/</sonar.host.url>
 	<sonar.login>admin</sonar.login>
